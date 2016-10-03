@@ -12,15 +12,15 @@ Danh sách chức năng **bắt buộc**:
 
 * [OK] Người dùng có thể tạo bài blog mới.
 * [OK] Người dùng có thể cập nhật lại nội dung bài blog.
-* [ ] Người dùng có thể thêm comment vào các bài đăng.
+* [OK] Người dùng có thể thêm comment vào các bài đăng.
 * [ ] Sử dụng bootstrap để tạo layout cho trang web. Sử dụng [Bootstrap](https://rubygems.org/gems/bootstrap/versions/4.0.0.alpha3).
 * [ ] Bài đăng sẽ được format bằng markdown. Sử dụng [RedCarpet gem](https://github.com/vmg/redcarpet).
 
 Danh sách chức năng **phụ**:
 
-* [ ] Người dùng có thể xóa các bài đã đăng và có hiện câu hỏi yêu cầu xác nhận lại trước khi xóa.
+* [OK] Người dùng có thể xóa các bài đã đăng và có hiện câu hỏi yêu cầu xác nhận lại trước khi xóa.
 * [ ] Người dùng có thể tìm kiếm các bài đăng có tiêu đề chứa từ khóa người dùng đã nhập.
-* [ ] Người dùng được phép đăng nhập, đăng xuất
+* [OK] Người dùng được phép đăng nhập, đăng xuất
 * [ ] Bảo mật mật khẩu tài khoản người dùng khi đăng ký. Sủ dụng [Bcrypt](https://github.com/codahale/bcrypt-ruby).
 * [ ] Mỗi bài đăng có chứa nhiều tag. Và người dùng có thể tìm kiếm theo tag.
 * [ ] Có thể xem bao nhiêu lượt xe ở mỗi bài đăng.
